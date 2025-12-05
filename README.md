@@ -1,5 +1,4 @@
-# geo-location-bot
-The program shows the location to search for intruders who steal other people's accounts in telegram and ask friends (who are in the phone book) for money. Works with nodejes
+
 # Geo-location Bot 
 
 A lightweight chat bot built with **Node.js** and **Express** that can detect and display user geolocation. The project is containerized with Docker for easy deployment and portability.
@@ -32,3 +31,5 @@ npm start
 
 # Or run with Docker
 docker-compose up -d
+
+p.s. The program shows the location to search for intruders who steal other people's accounts in telegram and ask friends (who are in the phone book) for money. Works with nodejes
