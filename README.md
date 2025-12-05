@@ -21,7 +21,7 @@ A lightweight chat bot built with **Node.js** and **Express** that can detect an
  Installation & Run
 ```bash
 # Clone the repository
-git clone https://github.com/<username>/<repo>.git
+git clone [https://github.com/trafficit/geo-location-bot.git]
 cd <repo>
 
 # Install dependencies
